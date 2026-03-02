@@ -21,7 +21,7 @@ graph TD
 ## Level 1: Functional DFD
 Breaking down the system into core modules like Login, Student/Teacher Profiles, Academics, Fees, and Leave.
 
-![Level 1 PNG](file:///d:/University-main/dfd%20diagrams/Level_1_Functional_DFD.png)
+![Level 1 PNG](dfd%20diagrams/Level_1_Functional_DFD.png)
 
 ```mermaid
 graph TD
@@ -50,7 +50,7 @@ graph TD
 ## Level 2: Student Management
 Detailed view of the student registration and update process.
 
-![Level 2 PNG](file:///d:/University-main/dfd%20diagrams/Level_2_Student_Management_DFD.png)
+![Level 2 PNG](dfd%20diagrams/Level_2_Student_Management_DFD.png)
 
 ```mermaid
 graph TD
